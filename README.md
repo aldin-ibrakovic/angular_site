@@ -1,2 +1,2 @@
 # angular_site
-Clone angular site - first page
+Clone https://angular.io/ - first page
